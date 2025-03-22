@@ -1,3 +1,31 @@
+# 代码阅读推荐顺序
+
+以下是建议的RAG技术学习路径，按照从基础到高级的顺序排列：
+
+1. [简单RAG实现](1_simple_rag.ipynb)
+2. [语义分块技术](2_semantic_chunking.ipynb) *
+3. [块大小选择器](3_chunk_size_selector.ipynb) *
+4. [上下文丰富RAG](4_context_enriched_rag.ipynb) *
+5. [上下文块标题RAG](5_contextual_chunk_headers_rag.ipynb) *
+6. [文档增强RAG](6_doc_augmentation_rag.ipynb) *
+7. [查询转换技术](7_query_transform.ipynb) *
+8. [重新排序器](8_reranker.ipynb) *
+9. [相关段落提取(RSE)](9_rse.ipynb) *
+10. [上下文压缩](10_contextual_compression.ipynb) *
+11. [反馈循环RAG](11_feedback_loop_rag.ipynb) *
+12. [自适应RAG](12_adaptive_rag.ipynb) *
+13. [自评估RAG](13_self_rag.ipynb) *
+14. [命题分块](14_proposition_chunking.ipynb) *
+15. [多模态RAG](15_multimodel_rag.ipynb) *
+16. [融合RAG](16_fusion_rag.ipynb) *
+17. [图形RAG](17_graph_rag.ipynb) *
+18. [层次结构RAG](18_hierarchy_rag.ipynb) *
+19. [假设文档嵌入RAG](19_HyDE_rag.ipynb) *
+20. [校正RAG](20_crag.ipynb) *
+21. [强化学习RAG](21_rag_with_rl.ipynb) *
+
+---
+
 # All RAG Techniques: A Simpler, Hands-On Approach ✨
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Nebius AI](https://img.shields.io/badge/Nebius%20AI-API-brightgreen)](https://cloud.nebius.ai/services/llm-embedding) [![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey)](https://openai.com/) [![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium)](https://medium.com/@fareedkhandev/testing-every-rag-technique-to-find-the-best-094d166af27f)
